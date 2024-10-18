@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330.16 49.73">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        fill: #231f20;
+        font-family: Brosqua-Regular, Brosqua;
+        font-size: 45.62px;
+      }
+
+      .cls-3 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-7 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+
+      .cls-9 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer_1">
+    <text class="cls-2" transform="translate(0 38.78)"><tspan class="cls-8" x="0" y="0">R</tspan><tspan class="cls-6" x="23.49" y="0">A</tspan><tspan x="49.91" y="0">D</tspan><tspan class="cls-9" x="78.83" y="0">IA</tspan><tspan class="cls-7" x="116.47" y="0">N</tspan><tspan class="cls-1" x="144.25" y="0">T </tspan><tspan class="cls-9" x="179.2" y="0">E</tspan><tspan class="cls-4" x="200.32" y="0">N</tspan><tspan class="cls-9" x="228.79" y="0">E</tspan><tspan class="cls-3" x="249.91" y="0">R</tspan><tspan class="cls-5" x="272.72" y="0">G</tspan><tspan x="305.07" y="0">Y</tspan></text>
+  </g>
+</svg>
